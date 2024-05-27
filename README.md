@@ -6,7 +6,7 @@
 
 ## About me
  
-I am a graduate student from the University of Science and Technology of China, specializing in 3D vision.
+I am a postgraduate student from the University of Science and Technology of China, specializing in 3D vision.
 
 
 ## ⌨️ Working language

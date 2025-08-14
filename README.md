@@ -35,13 +35,12 @@ I am a postgraduate student from the University of Science and Technology of Chi
 
 ### Technologies & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,opengl,unity,git,docker,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,git,docker,vscode,visualstudio&theme=dark" />
 </div>
 
 - **Deep Learning:** PyTorch
 - **Computer Vision:** OpenCV, PIL
-- **3D Graphics:** OpenGL, Unity
-- **Development:** Git, Docker, VS Code, Cursor
+- **Development:** Git, Docker, VS Code, Visual Studio, Cursor
 
 ## 🚀 Featured Projects
 
@@ -54,6 +53,7 @@ I am a postgraduate student from the University of Science and Technology of Chi
   <a href="mailto:1950946176@qq.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <span style="margin-left: 10px;">**📧 Email:** 1950946176@qq.com</span>
   <!-- Add more social links as needed -->
 </div>
 

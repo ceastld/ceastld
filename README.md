@@ -11,3 +11,7 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,git,docker,vscode&theme=dark" />
 </div>
 
+## 🌐 Personal Website
+
+**🔗 [ceastld.vercel.app](https://ceastld.vercel.app)**
+
